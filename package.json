@@ -1,8 +1,10 @@
-{
-  "scripts": {
+{"scripts": {
     "test": "jest"
   },
-  "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.4"
+  "jest": {
+    "automock": false,
+    "setupFiles": [
+      "./setupJest.js"
+    ]
   }
 }
