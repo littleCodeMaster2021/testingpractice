@@ -1,0 +1,6 @@
+{
+ "city1": {"name": "Philadelphia","temp" : 78.4},
+ "city2": {"name": "Miami", "temp": 92.5},
+ "city3": {"name": "Douala", "temp": 88.7},
+ "city4": {"name": "London", "temp": 67.1}
+}
